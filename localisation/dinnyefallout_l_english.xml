@@ -1,0 +1,13 @@
+l_english:
+# advisor voice type string for Dinnye Fallout pack
+# other stuff precedes this
+
+SETTINGS_VOICE_TYPE_advisor_voice_dinnyecurie:0 "Curie"
+SETTINGS_VOICE_TYPE_advisor_voice_dinnyehandy:0 "Mr. Handy"
+SETTINGS_VOICE_TYPE_advisor_voice_dinnyegutsy:0 "Mr. Gutsy"
+SETTINGS_VOICE_TYPE_advisor_voice_dinnyeassaultron:0 "Assaultron"
+SETTINGS_VOICE_TYPE_advisor_voice_dinnyeprotectron:0 "Protectron"
+SETTINGS_VOICE_TYPE_advisor_voice_dinnyeforobotf:0 "Robot F"
+SETTINGS_VOICE_TYPE_advisor_voice_dinnyeforobotm:0 "Robot M"
+SETTINGS_VOICE_TYPE_advisor_voice_dinnyesynth1:0 "Synth 1"
+SETTINGS_VOICE_TYPE_advisor_voice_dinnyesynth2:0 "Synth 2"
