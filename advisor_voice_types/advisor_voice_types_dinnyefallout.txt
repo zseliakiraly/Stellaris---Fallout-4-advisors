@@ -1,0 +1,71 @@
+dinnyecurie_advisor = {
+name = "advisor_voice_dinnyecurie"
+icon = "gfx/interface/icons/traits/leader_traits/leader_trait_custom_AI_assistant.dds"
+	weight = {
+		base = 0
+	}
+}
+
+dinnyegutsy_advisor = {
+name = "advisor_voice_dinnyegutsy"
+icon = "gfx/interface/icons/traits/leader_traits/leader_trait_retired_fleet_officer.dds"
+	weight = {
+		base = 0
+	}
+}
+
+dinnyehandy_advisor = {
+name = "advisor_voice_dinnyehandy"
+icon = "gfx/interface/icons/traits/leader_traits/leader_trait_custom_AI_assistant.dds"
+	weight = {
+		base = 0
+	}
+}
+
+dinnyeforobotf_advisor = {
+name = "advisor_voice_dinnyeforobotf"
+icon = "gfx/interface/icons/traits/trait_robotic_1.dds"
+	weight = {
+		base = 0
+	}
+}
+
+dinnyeforobotm_advisor = {
+name = "advisor_voice_dinnyeforobotm"
+icon = "gfx/interface/icons/traits/trait_robotic_1.dds"
+	weight = {
+		base = 0
+	}
+}
+
+dinnyeprotectron_advisor = {
+name = "advisor_voice_dinnyeprotectron"
+icon = "gfx/interface/icons/traits/trait_robotic_2.dds"
+	weight = {
+		base = 0
+	}
+}
+
+dinnyeassaultron_advisor = {
+name = "advisor_voice_dinnyeassaultron"
+icon = "gfx/interface/icons/traits/trait_robotic_2.dds"
+	weight = {
+		base = 0
+	}
+}
+
+dinnyesynth1_advisor = {
+name = "advisor_voice_dinnyesynth1"
+icon = "gfx/interface/icons/traits/trait_robotic_3.dds"
+	weight = {
+		base = 0
+	}
+}
+
+dinnyesynth2_advisor = {
+name = "advisor_voice_dinnyesynth2"
+icon = "gfx/interface/icons/traits/trait_robotic_3.dds"
+	weight = {
+		base = 0
+	}
+}
